@@ -1,5 +1,5 @@
 openai==0.28.0
-faiss-cpu`
+faiss-cpu
 numpy
 streamlit
 python-dotenv
