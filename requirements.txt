@@ -1,5 +1,12 @@
-openai==0.28.0
-faiss-cpu
-numpy
+transformers  
+sentence_transformers  
+hnswlib  
+numpy<2.0  
+PyPDF2  
+python-dotenv  
+tenacity  
+llama-index  
+llama-index-llms-gemini  
+llama-index-embeddings-gemini  
+tqdm  
 streamlit
-python-dotenv
