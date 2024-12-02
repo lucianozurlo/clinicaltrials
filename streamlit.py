@@ -195,3 +195,4 @@ if __name__ == "__main__":
         with st.spinner('Generando respuesta...'):
             st.write(f"**Respuesta:** {intercambio['respuesta']}")
         st.markdown("---")  # Separador entre interacciones
+
